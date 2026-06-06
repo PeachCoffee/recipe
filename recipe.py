@@ -16,7 +16,7 @@ model = genai.GenerativeModel("gemini-2.5-flash")
 
 # 요리 종류 리스트
 cuisines = [
-    "",
+    "Korean",
     "Italian",
     "Mexican",
     "Chinese",
